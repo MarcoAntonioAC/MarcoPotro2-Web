@@ -1,0 +1,146 @@
+body
+{
+	background-color:#FFFFF;
+	font-family: 'Ropa Sans', sans-serif;
+}
+#contenido
+{
+	width:960px;
+	margin:0 auto;
+	text-align:center;
+}
+h1
+{
+	color: #00BFFF;
+	font-family: 'Rockwell', cursive;
+}
+h2
+{
+	color: #FFF;
+	font-family: 'Ropa Sans', sans-serif;
+	font-size: 20px;
+	font-weight: bold;
+}
+header hgroup h1
+{
+	border-bottom:solid;
+	padding-bottom: 1px;
+	border-width:2px;
+	border-color:#000000;
+	text-shadow:0px 2px 0px rgba(0,0,0,0.5);
+}
+nav ul li
+{
+	display: inline-block;
+	margin-right: 75px;
+	color: #1d1d1d;
+	cursor: pointer;
+	padding: 10px;
+	background-color: #000000;
+
+	transition:all 0.2s linear;
+	-webkit-transition:all 0.2s linear;
+	-moz-transition:all 0.8s linear;
+	-o-transition:all 0.2s linear;
+}
+nav ul li:hover
+{
+	background-color: #FFF;
+	color: #00BFFF;
+	border-radius:4px;
+}
+nav ul li a
+{
+	text-decoration:none;
+}
+#textoPr
+{
+	width:700px;
+	height:300px;
+	background-color: #1d1d1d;
+	color: #FFF;
+	margin:0 auto;
+	text-align: left;
+	border-radius:10px;
+	padding: 20px;
+	box-shadow:0px 10px 25px rgba(0,0,0,0.5);
+}
+a
+{
+	color: #2ECCFA;
+	font-weight:bold;
+}
+#miCanvas
+{
+	position: absolute;
+	border-style: none;
+	bottom:0px;
+	left:0px;
+}
+meter
+{
+	background-color: #FFF;
+	padding:2px;
+	border-radius:2px;
+	color: #e44e2d;
+	margin-left:20px;
+	width:200px;
+}
+label
+{
+	display: block;
+}
+#btnSubmit
+{
+	border:solid;
+	background color: #FFF;
+	color:#FFF;
+	padding: 4px;
+	margin: 20px;
+	cursor: pointer;
+	font-family: 'Ropa Sans', sans-serif;
+}
+#calificacion
+{
+	width: 150px;
+	-webkit-appearance:none;
+	background color: #FFF;
+	height 20px;
+	border-radius: 1px;
+	cursor: pointer;
+}
+#calificacion::-webkit-slider-thumb
+{
+	-webkit-appearance:none;
+	background-color: #00BFFF;
+	border-radius: 0px;
+	height:20px;
+	width:5px;
+
+}
+#contacto
+{
+    position: relative;
+    top:-3%;
+    left:0%;
+}
+#video
+{
+	position: relative;
+	left: 24%;
+}
+#link
+{
+	text-align:center;
+}
+#pie 
+{
+	position: relative;
+	top: 30%
+}
+#art_titulos
+{
+	font-weight: 100;
+	font-size: 18px;
+	text-indent:180px;
+}

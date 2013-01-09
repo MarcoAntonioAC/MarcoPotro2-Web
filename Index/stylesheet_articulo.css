@@ -1,0 +1,10 @@
+p.corto
+{
+	width:42em; 
+    border:1px solid #FFF;
+    text-wrap:normal;
+    position: relative;
+	left: 26%;
+	font-family: Arial;
+	font-size: 12px
+}
