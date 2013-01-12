@@ -1,7 +1,7 @@
 p.corto
 {
 	width:42em; 
-    border:1px solid #FFF;
+    border-right: dotted;
     text-wrap:normal;
     position: relative;
 	left: 26%;
