@@ -144,3 +144,15 @@ label
 	font-size: 18px;
 	text-indent:180px;
 }
+
+img.html5_icon
+{
+	height: 30px;
+	width: 30px;
+}
+
+img.css3_icon
+{
+	height: 32px;
+	width: 32px;
+}
